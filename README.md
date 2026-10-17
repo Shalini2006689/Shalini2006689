@@ -1,5 +1,5 @@
 # Hi 👋, I'm Shalini Sahu
-💻 MERN Stack Developer
+💻 Java full Stack developer .
 
 🎓 Final Year B.Tech CSE Student.
 
